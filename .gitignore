@@ -2,9 +2,11 @@
 *.class
 *.jar
 *.war
-*.ear
 *.log
 hs_err_pid*
+
+# Maven
+target/
 
 # IDE
 .idea/
@@ -15,13 +17,8 @@ hs_err_pid*
 .project
 bin/
 out/
-target/
+*.swp
 
 # OS
 .DS_Store
 Thumbs.db
-
-# Maven/Gradle
-target/
-build/
-.gradle/

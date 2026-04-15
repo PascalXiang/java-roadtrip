@@ -13,26 +13,42 @@
 
 ```
 java-roadtrip/
-├── src/
-│   ├── ch01helloworld/       基础入门 · HelloWorld · JDK · CMD
-│   ├── ch02variables/        变量 · 数据类型 · 类型转换
-│   ├── ch03operators/        算术 · 关系 · 逻辑 · 三元
-│   ├── ch04flowcontrol/      if · switch · for · while · break
-│   ├── ch05array/            数组 · 排序 · 二分查找 · 二维数组
-│   ├── ch06method/           方法定义 · 重载 · 返回值
-│   ├── ch07oopbasic/         类与对象 · 构造方法 · 封装 · this
-│   ├── ch08oopadvanced/      继承 · 多态 · 抽象类 · 接口 · static · final
-│   ├── ch09api/              String · StringBuilder · Math · Arrays · 包装类
-│   ├── ch10exception/        异常体系 · try-catch · 自定义异常
-│   ├── ch11collections/      Collection · List · Set · Map · HashMap
-│   ├── ch12io/               File · 字节流 · 字符流 · 缓冲流 · 序列化
-│   ├── ch13thread/           线程 · Runnable · 同步 · 线程池
-│   ├── ch14network/          InetAddress · TCP · UDP
-│   └── ch15lambda/           Lambda · Stream · Optional
-└── notes/                    学习笔记（见下方格式）
+├── pom.xml                          Maven 配置
+├── src/main/java/
+│   ├── ch01helloworld/              基础入门 · HelloWorld
+│   ├── ch02variables/               变量 · 数据类型 · 类型转换
+│   ├── ch03operators/               算术 · 关系 · 逻辑 · 三元
+│   ├── ch04flowcontrol/             if · switch · for · while
+│   ├── ch05array/                   数组 · 排序 · 二分查找
+│   ├── ch06method/                  方法定义 · 重载
+│   ├── ch07oopbasic/                类与对象 · 构造 · 封装
+│   ├── ch08oopadvanced/             继承 · 多态 · 抽象 · 接口
+│   ├── ch09api/                     String · Math · Arrays
+│   ├── ch10exception/               异常体系 · try-catch
+│   ├── ch11collections/             List · Set · Map
+│   ├── ch12io/                      字节流 · 字符流 · 缓冲流
+│   ├── ch13thread/                  线程 · 同步 · 线程池
+│   ├── ch14network/                 TCP · UDP
+│   └── ch15lambda/                  Lambda · Stream · Optional
+├── src/main/resources/
+│   └── logback.xml                  日志配置
+└── src/test/java/                   单元测试
 ```
 
-每个包下 `.java` 文件是示例代码，`.md` 文件是该节笔记。
+每个包下 `.java` 是示例代码，`Note.md` 是该章笔记。
+
+## 已引入依赖
+
+| 依赖 | 用途 |
+|------|------|
+| **slf4j + logback** | 日志框架 |
+| **Lombok** | 简化 POJO（@Data @Getter 等） |
+| **Guava** | Google 工具类（集合、缓存、字符串） |
+| **commons-lang3** | Apache 工具类（StringUtils 等） |
+| **commons-io** | IO 工具类 |
+| **Hutool** | 国产全能工具库 |
+| **Jackson** | JSON 处理 |
+| **JUnit 5** | 单元测试 |
 
 ## 笔记格式
 
@@ -61,10 +77,10 @@ long b = a;  // 自动转换
 
 ## 如何使用
 
-1. 用 IntelliJ IDEA 打开项目
-2. 配置 JDK（推荐 17+）
-3. 打开任意 `.java` → 点击 main 方法旁 ▶ 运行
-4. 边看视频边在对应包下写代码 + 填笔记
+1. 用 IntelliJ IDEA 打开项目（自动识别 Maven）
+2. 等 IDEA 右下角 Maven 依赖下载完成
+3. 配置 JDK 17+
+4. 打开任意 `.java` → 点击 main 方法旁 ▶ 运行
 
 ## 学习进度
 
