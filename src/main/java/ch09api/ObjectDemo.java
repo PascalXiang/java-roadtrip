@@ -1,8 +1,9 @@
 package ch09api;
 
 /**
- * 第九章 常用API - ObjectDemo
- * 黑马程序员Java入门到起飞
+ * 常用API - ObjectDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class ObjectDemo {
     public static void main(String[] args) {

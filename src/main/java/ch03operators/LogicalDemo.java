@@ -1,8 +1,9 @@
 package ch03operators;
 
 /**
- * 第三章 运算符 - LogicalDemo
- * 黑马程序员Java入门到起飞
+ * 运算符 - LogicalDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class LogicalDemo {
     public static void main(String[] args) {

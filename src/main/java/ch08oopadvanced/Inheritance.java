@@ -1,8 +1,9 @@
 package ch08oopadvanced;
 
 /**
- * 第八章 - 继承
- * 黑马程序员Java入门到起飞
+ * 面向对象进阶 - Inheritance
+ * @author Pascal
+ * @since 2026-04-15
  */
 
 // 父类：动物

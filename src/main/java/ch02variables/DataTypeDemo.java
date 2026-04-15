@@ -1,8 +1,9 @@
 package ch02variables;
 
 /**
- * 第二章 变量与数据类型 - DataTypeDemo
- * 黑马程序员Java入门到起飞
+ * 变量与数据类型 - DataTypeDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class DataTypeDemo {
     public static void main(String[] args) {

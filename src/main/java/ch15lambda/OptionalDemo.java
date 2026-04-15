@@ -1,8 +1,9 @@
 package ch15lambda;
 
 /**
- * 第十五章 Lambda与函数式编程 - OptionalDemo
- * 黑马程序员Java入门到起飞
+ * Lambda与Stream - OptionalDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class OptionalDemo {
     public static void main(String[] args) {

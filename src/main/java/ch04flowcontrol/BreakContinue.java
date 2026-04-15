@@ -1,8 +1,9 @@
 package ch04flowcontrol;
 
 /**
- * 第四章 流程控制 - BreakContinue
- * 黑马程序员Java入门到起飞
+ * 流程控制 - BreakContinue
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class BreakContinue {
     public static void main(String[] args) {

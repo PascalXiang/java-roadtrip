@@ -1,8 +1,9 @@
 package ch06method;
 
 /**
- * 第六章 方法（函数） - MethodOverload
- * 黑马程序员Java入门到起飞
+ * 方法 - MethodOverload
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class MethodOverload {
     public static void main(String[] args) {

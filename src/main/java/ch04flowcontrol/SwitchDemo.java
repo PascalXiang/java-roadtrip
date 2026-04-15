@@ -1,8 +1,9 @@
 package ch04flowcontrol;
 
 /**
- * 第四章 流程控制 - SwitchDemo
- * 黑马程序员Java入门到起飞
+ * 流程控制 - SwitchDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class SwitchDemo {
     public static void main(String[] args) {

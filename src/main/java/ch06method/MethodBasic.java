@@ -1,8 +1,9 @@
 package ch06method;
 
 /**
- * 第六章 方法（函数） - MethodBasic
- * 黑马程序员Java入门到起飞
+ * 方法 - MethodBasic
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class MethodBasic {
     public static void main(String[] args) {

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 15 22:15:25 CST 2026
+https\://repo.maven.apache.org/maven2/.lastUpdated=1776262525423
+http\://0.0.0.0/.error=Could not transfer artifact com.vladsch.flexmark\:flexmark-ext-jekyll-front-matter\:pom\:0.42.14 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [nexus (http\://nexus.gzyaorui.cn/nexus/content/groups/public, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1776262525292

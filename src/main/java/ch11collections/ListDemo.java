@@ -1,8 +1,9 @@
 package ch11collections;
 
 /**
- * 第十一章 集合 - ListDemo
- * 黑马程序员Java入门到起飞
+ * 集合框架 - ListDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class ListDemo {
     public static void main(String[] args) {

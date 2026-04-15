@@ -1,8 +1,9 @@
 package ch07oopbasic;
 
 /**
- * 第七章 - 类和对象
- * 黑马程序员Java入门到起飞
+ * 面向对象基础 - ClassAndObject
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class ClassAndObject {
 

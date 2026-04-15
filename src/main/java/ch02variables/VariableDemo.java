@@ -1,8 +1,9 @@
 package ch02variables;
 
 /**
- * 第二章 - 变量与数据类型
- * 黑马程序员Java入门到起飞
+ * 变量与数据类型 - VariableDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class VariableDemo {
     public static void main(String[] args) {

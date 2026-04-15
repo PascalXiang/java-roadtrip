@@ -1,8 +1,9 @@
 package ch10exception;
 
 /**
- * 第十章 异常处理 - CustomException
- * 黑马程序员Java入门到起飞
+ * 异常处理 - CustomException
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class CustomException {
     public static void main(String[] args) {

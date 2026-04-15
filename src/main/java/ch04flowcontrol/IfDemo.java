@@ -1,8 +1,9 @@
 package ch04flowcontrol;
 
 /**
- * 第四章 - 流程控制：if判断
- * 黑马程序员Java入门到起飞
+ * 流程控制 - IfDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class IfDemo {
     public static void main(String[] args) {

@@ -1,8 +1,9 @@
 package ch12io;
 
 /**
- * 第十二章 IO流 - FileDemo
- * 黑马程序员Java入门到起飞
+ * IO流 - FileDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class FileDemo {
     public static void main(String[] args) {

@@ -1,8 +1,9 @@
 package ch14network;
 
 /**
- * 第十四章 网络编程 - UdpDemo
- * 黑马程序员Java入门到起飞
+ * 网络编程 - UdpDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class UdpDemo {
     public static void main(String[] args) {

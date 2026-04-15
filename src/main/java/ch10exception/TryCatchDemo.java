@@ -1,8 +1,9 @@
 package ch10exception;
 
 /**
- * 第十章 异常处理 - TryCatchDemo
- * 黑马程序员Java入门到起飞
+ * 异常处理 - TryCatchDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class TryCatchDemo {
     public static void main(String[] args) {

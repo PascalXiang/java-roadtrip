@@ -1,8 +1,9 @@
 package ch09api;
 
 /**
- * 第九章 常用API - MathDemo
- * 黑马程序员Java入门到起飞
+ * 常用API - MathDemo
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class MathDemo {
     public static void main(String[] args) {

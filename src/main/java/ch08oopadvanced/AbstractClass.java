@@ -1,8 +1,9 @@
 package ch08oopadvanced;
 
 /**
- * 第八章 面向对象进阶 - AbstractClass
- * 黑马程序员Java入门到起飞
+ * 面向对象进阶 - AbstractClass
+ * @author Pascal
+ * @since 2026-04-15
  */
 public class AbstractClass {
     public static void main(String[] args) {
