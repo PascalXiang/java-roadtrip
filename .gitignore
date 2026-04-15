@@ -22,3 +22,6 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Maven local repo (误提交)
+D:/
