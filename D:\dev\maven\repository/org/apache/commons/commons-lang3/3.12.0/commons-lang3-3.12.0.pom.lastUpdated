@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 15 22:15:45 CST 2026
-https\://repo.maven.apache.org/maven2/.lastUpdated=1776262545888
-http\://0.0.0.0/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.12.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [nexus (http\://nexus.gzyaorui.cn/nexus/content/groups/public, default, releases+snapshots)]
-@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1776262545808
