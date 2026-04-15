@@ -64,6 +64,6 @@ public class Inheritance {
 
         // instanceof 运算符
         System.out.println("\ndog instanceof Animal: " + (dog instanceof Animal));  // true
-        System.out.println("cat instanceof Dog: " + (cat instanceof Dog));          // false
+        System.out.println("cat instanceof Animal: " + (cat instanceof Animal));      // true
     }
 }
